@@ -10,6 +10,16 @@ organized inventory. Every species is listed exactly once; where the same specie
 was observed at multiple locations, all locations (and photographs) are merged
 into that single entry.
 
+## Members & Roll Number
+
+| Name | Roll Number |
+|---|---|
+| AFEEF | 25011102008 |
+| GURUPRASAD B | 25011102036 |
+| KRISH K | 25011102049 |
+| AHMED ZAYD | 25011102050 |
+| MAITREYAN J | 25011102053 |
+
 ![Campus survey map](data/campus-survey-map.png)
 
 *Schematic representation of the campus survey area and observation zones.*
@@ -54,7 +64,6 @@ into that single entry.
 ```
 campus-biodiversity-repository/
 ├── README.md                      <- this file: master inventory
-├── CONTRIBUTING.md                <- how to add a new species (no duplicates!)
 ├── Flora/                         <- plants: one folder + page per species
 │   └── <species>/README.md + photos/
 ├── Fauna/                         <- animals: one folder + page per species
@@ -74,8 +83,8 @@ before adding a new species.
 
 ## Sources & acknowledgement
 
-- Species recorded by Team IOT-A (Afeef, Guruprasad B, Krish K, Ahmed Zayd, Maitreyan J)
-  during the Campus Biodiversity Survey (EVS Assignment 2).
+- Species recorded by Team IOT-A during the Campus Biodiversity Survey
+  (EVS Assignment 2).
 - All photographs are **original photographs** taken during the field visit;
   no internet images are used.
 - Species-level identifications are based on visible morphological features in the
